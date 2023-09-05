@@ -31,7 +31,7 @@ import (
 	"github.com/prashantv/gostub"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"go.uber.org/automaxprocs/util/cgroups"
+	"github.com/winor30/automaxprocs/util/cgroups"
 )
 
 func TestNewQueryer(t *testing.T) {
