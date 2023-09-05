@@ -1,4 +1,4 @@
-module automaxprocs
+module github.com/winor30/automaxprocs
 
 go 1.18
 
