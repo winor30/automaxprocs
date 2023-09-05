@@ -1,4 +1,4 @@
-module go.uber.org/automaxprocs
+module automaxprocs
 
 go 1.18
 
